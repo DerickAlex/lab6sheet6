@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Apr 16 14:25:06 IST 2021
+org.eclipse.jst.jee.server\:LabSheet2=C\:\\Program Files\\Apache Software Foundation\\Tomcat 10.0\\wtpwebapps\\LabSheet2
+org.eclipse.jst.jee.server\:Lab6Rest=C\:\\Program Files\\Apache Software Foundation\\Tomcat 10.0\\wtpwebapps\\Lab6Rest
